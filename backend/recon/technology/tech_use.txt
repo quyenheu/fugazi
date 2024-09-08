@@ -1,0 +1,4 @@
+python3 wappy.py https://example.com --json
+
+whatweb (con này cần chuẩn hóa output)
+
